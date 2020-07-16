@@ -3,3 +3,11 @@ Development adjascent since 2008.
 - Open source advocate.
 - Cloud development and DevOps transformation for legacy projects.
 - Front-end focus, fast framework adopter.
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
